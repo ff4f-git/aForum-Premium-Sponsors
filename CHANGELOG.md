@@ -9,6 +9,11 @@ Zusammenfassung der bisherigen Layout- und Funktionsstände aus der Projektdokum
 - Mobile Auswahl, Begrenzung auf drei Partner und unterstützte Pfade anhand des Codes präzisiert.
 - Ältere Änderungsnotizen aus der README hier zusammengefasst.
 
+## Version 13 · Mehr Abstand zwischen Sponsoren
+
+- Desktop-Raster: Abstand zwischen den drei Werbekacheln von 16 auf 20 px erhöht.
+- Mobile Abstände, Kachelhöhe, Logos, Pfeile, Hover-Effekte und JavaScript unverändert.
+
 ## Version 12 · Ruhigere Sponsor-Interaktion
 
 - Dezenterer Hover: 1 px Anhebung und reduzierter Schatten.
