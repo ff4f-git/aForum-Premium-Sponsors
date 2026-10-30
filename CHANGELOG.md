@@ -9,6 +9,12 @@ Zusammenfassung der bisherigen Layout- und Funktionsstände aus der Projektdokum
 - Mobile Auswahl, Begrenzung auf drei Partner und unterstützte Pfade anhand des Codes präzisiert.
 - Ältere Änderungsnotizen aus der README hier zusammengefasst.
 
+## Version 12 · Ruhigere Sponsor-Interaktion
+
+- Dezenterer Hover: 1 px Anhebung und reduzierter Schatten.
+- Pfeile: 21 % statt 23 % Kachelhöhe, Hover-Skalierung 104 % statt 113 %.
+- Keine Änderungen an Logos, Raster, Einstellungen, JavaScript oder mobiler Auswahl.
+
 ## Version 11 · Hauptreiter
 
 - Sponsorleiste zusätzlich auf Kategorien, Aktuell, Neu und Heiß beziehungsweise Top.
