@@ -112,7 +112,7 @@ export default apiInitializer("1.14.0", (api) => {
         const requestedScale = Number(sponsor.image_scale);
         const imageScale = sponsor.image_scale === undefined || sponsor.image_scale === null || sponsor.image_scale === "" || !Number.isFinite(requestedScale)
           ? 100
-          : Math.max(90, Math.min(110, requestedScale));
+          : Math.max(50, Math.min(150, requestedScale));
         img.style.setProperty("--aforum-image-scale", String(imageScale / 100));
         a.append(img);
       }
