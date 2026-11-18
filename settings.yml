@@ -32,8 +32,8 @@ sponsors:
       image_scale:
         type: integer
         validations:
-          min: 90
-          max: 110
+          min: 50
+          max: 150
       mobile_weight:
         type: integer
         validations:
